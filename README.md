@@ -20,3 +20,8 @@ I'm interested in leveraging technology to solve real-world problems and create 
 Languages & Frameworks: Python, SQL, JavaScript, HTML, Vite, pnpm
 
 Tools: GitHub, VS Code, Data Analytics libraries
+
+
+**👨‍💻  Connect with me:**
+
+**LinkedIn:** www.linkedin.com/in/niraj-nandre
