@@ -3,32 +3,17 @@
 
 I’m passionate about building civic-tech solutions and leveraging data-driven approaches to solve real-world problems. My GitHub is where I experiment, learn, and share projects that combine technology, community impact, and education.
 
-🚀 Featured Projects
-Trash-Go  
-A civic-tech platform empowering citizens to report local waste and helping authorities track cleanups through interactive heatmaps and gamification.
+**🌍 Civic Tech & Sustainability** — I develop applications that empower communities, from platforms helping citizens track and report environmental issues to systems that gamify civic engagement and social responsibility.
 
-Climate Track (github.com in Bing)  
-Python-based project for tracking climate-related data and insights.
+**💻 Full-Stack Development** — I work with modern web technologies including JavaScript, Python, and HTML to create interactive, user-friendly applications.
 
-Career Advisor (github.com in Bing)  
-A simple HTML project offering career guidance resources.
+**🎯 Project Highlights:**
 
-🛠️ Skills & Tools
+**Trash-Go**— A civic-tech platform enabling citizens to report local waste and helping authorities track cleanups through interactive heatmaps and gamification
+**Climate Track** — Environmental tracking and monitoring application
+**Career Advisor**— A tool designed to guide users through career decisions and planning
+I'm interested in leveraging technology to solve real-world problems and create applications that drive positive change. I believe in open-source collaboration and enjoy building projects that are both impactful and accessible to everyone.
+**🛠️ Skills & Tools**
 Languages & Frameworks: Python, SQL, JavaScript, HTML, Vite, pnpm
 
 Tools: GitHub, VS Code, Data Analytics libraries
-
-<!--
-**Neel7738/Neel7738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
