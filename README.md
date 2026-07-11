@@ -10,9 +10,12 @@ I’m passionate about building civic-tech solutions and leveraging data-driven 
 **🎯 Project Highlights:**
 
 **Trash-Go**— A civic-tech platform enabling citizens to report local waste and helping authorities track cleanups through interactive heatmaps and gamification
+
 **Climate Track** — Environmental tracking and monitoring application
+
 **Career Advisor**— A tool designed to guide users through career decisions and planning
 I'm interested in leveraging technology to solve real-world problems and create applications that drive positive change. I believe in open-source collaboration and enjoy building projects that are both impactful and accessible to everyone.
+
 **🛠️ Skills & Tools**
 Languages & Frameworks: Python, SQL, JavaScript, HTML, Vite, pnpm
 
