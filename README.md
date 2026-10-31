@@ -1,5 +1,6 @@
 👋 Hi, I’m Niraj Anil Nandre
 🎯 Computer Science Engineering Student | Developer 
+🏆 MHT-CET: 98 Percentile
 
 I’m passionate about building civic-tech solutions and leveraging data-driven approaches to solve real-world problems. My GitHub is where I experiment, learn, and share projects that combine technology, community impact, and education.
 
